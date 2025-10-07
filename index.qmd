@@ -1,6 +1,6 @@
-# Selamat Berjumpa {.unnumbered}
+# Selamat Datang {.unnumbered}
 
-![About Me](images/CoverIstri.jpg){width=950%}
+![Gambar istri-istri gweh](images/CoverIstri.jpg){width=950%}
 
 Muhammad Azikra Wira Pratama yang biasanya dipanggil dengan "Zik" adalah mahasiswa di Sekolah Teknik Elektro dan Informatika - Komputasi ITB.
 
