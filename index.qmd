@@ -1,9 +1,12 @@
-# Selamat Datang {.unnumbered}
+# Hallo Semua {.unnumbered}
 
-![Gambar istri-istri gweh](images/CoverIstri.jpg){width=950%}
+![Profil diri](images/CoverIstri.png)
 
-Muhammad Azikra Wira Pratama yang biasanya dipanggil dengan "Zik" adalah mahasiswa di Sekolah Teknik Elektro dan Informatika - Komputasi ITB.
+Muhammad Azikra Wira Pratama, yang akrab dipanggil “Zik” atau "Zikra", merupakan mahasiswa Sekolah Teknik Elektro dan Informatika – Komputasi, Institut Teknologi Bandung (Angkatan 2024), dengan program studi Sistem dan Teknologi Informasi (kode II). 
 
-Kamu tau enggak kalo aku tidak karbit
+Zikra lahir di Pekanbaru pada tahun 2006 dan saat ini berdomisili di Cimahi.
 
-Istri aku ada Kita Ikuyo dan Liz
+---
+
+## Connect with Me
+- Email : [18224089@std.stei.itb.ac.id](mailto:18224089@std.stei.itb.ac.id)

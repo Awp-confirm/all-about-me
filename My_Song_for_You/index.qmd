@@ -1,11 +1,10 @@
 # My Songs for You
+---
+Ini adalah lagu yang sangat berarti bagi saya.
 
-Post Wedding Kawah Putih
-Lirik by Armein Z. R. Langi
-Music: SUNO
+{{< video https://www.youtube.com/watch?v=HwGFMez_Tnc>}}
 
-{{< video https://youtu.be/KWthEImJ9mY?si=iUV8Ghhj0R3gKQyZ>}}
-
+Lagu ini menemani saya yang sedang mengalami banyaknya masalah, di akhir jenjang SMA. Liriknya menggambarkan dimana banyak kenyataan pahit yang terjadi, dunia akan terus berjalan seperti hujan yang akan selalu turun kapanpun itu. Apapun yang terjadi dalam kehidupan, harus selalu maju karena hujan tidak akan berhenti walaupun saat seseorang tenggelam dalam kesedihan.
 
 Why am I singing for you? [River in my Mind](./Rivers%20In%20My%20Mind.mp3)
 
