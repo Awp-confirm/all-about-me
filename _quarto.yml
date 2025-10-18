@@ -1,6 +1,9 @@
 project:
   type: book
   output-dir: docs
+preview:
+  serve-dir: docs
+  render: all
 
 book:
   title: "Muhammad Azikra Wira Pratama"
@@ -9,7 +12,7 @@ book:
   date: "10/5/2025"
   chapters:
     - index.qmd
-    - intro.qmd
+    - All_about_me/intro.qmd
     - My_Song_for_You/index.qmd
     - My_Stories_for_You/index.qmd
     - My_Shapes/index.qmd
@@ -23,6 +26,9 @@ book:
     - references.qmd
 
 bibliography: references.bib
+
+execute:
+  freeze: false
 
 format:
   html:
