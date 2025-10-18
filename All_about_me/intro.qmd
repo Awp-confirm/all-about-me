@@ -1,4 +1,4 @@
-# All About Me
+# UTS-1 All About Me
 
 ---
 
@@ -27,7 +27,7 @@ Saya percaya bahwa dengan memahami diri secara jujur, saya dapat **hidup dengan 
 ---
 
 ## Siapa saya
-![Profil diri](images/Identitas.png){width="60%"}
+![Profil diri](../images/Identitas.png){width="60%"}
 
 Kenalin saya **Muhammad Azikra Wira Pratama**, atau biasa dipanggil **Zik/Zikra**. Saya mahasiswa dari program studi Sistem dan Teknologi Informasi (II), Fakultas STEI, angkatan 2024. 
 
