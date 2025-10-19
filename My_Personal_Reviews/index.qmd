@@ -3,4 +3,98 @@ Berikut cara saya melakukan review: mengguan chatGPT, saya mengattach [file prom
 
 ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](Self-Assessment_UTS-1_s_d__UTS-5__dibuat_otomatis_.csv). 
 
-# Hasil Self-Assessment UTS (URL: https://awp-confirm.github.io/all-about-me/)
+## Hasil Self-Assessment UTS (URL: https://awp-confirm.github.io/all-about-me/)
+
+### Identifikasi {.unnumbered}
+**Nama Mahasiswa:** Muhammad Azikra Wira Pratama  
+**NIM:** 18224089  
+**Jenis Penilaian:** Self-assessment  
+
+***
+
+### Tinjauan Umum {.unnumbered}
+Seluruh bagian portofolio UTS telah tersusun lengkap dari UTS-1 hingga UTS-5.  
+Setiap bagian menunjukkan perkembangan kemampuan komunikasi personal, refleksi diri, dan penerapan konsep interpersonal.  
+
+Struktur portofolio mencakup:
+- **UTS-1 (All About Me):** Menampilkan narasi reflektif dari identitas diri hingga penutup.  
+- **UTS-2 (My Songs for You):** Lagu pilihan *“7 Years”* disertai alasan, pesan personal, dan refleksi makna.  
+- **UTS-3 (My Stories for You):** Cerita pendek “A Way to the Beach” dengan pendahuluan, inti, dan penutup reflektif.  
+- **UTS-4 (My SHAPE):** Menyajikan hasil tes VIA, misi pribadi, serta refleksi S-H-A-P-E secara rinci.  
+- **UTS-5 (My Personal Reviews):** Analisis pesan dan evaluasi diri menggunakan pendekatan komunikasi interpersonal.  
+
+***
+
+## Tinjauan Spesifik Per Bagian {.unnumbered}
+
+### UTS-1 — All About Me (95 %) {.unnumbered}
+**Kriteria Nilai:**  
+Orisinalitas = 5 Keterlibatan = 5 Humor = 4 Wawasan = 5  
+
+**Catatan & Refleksi:**  
+Tulisan orisinal dan reflektif, dengan gaya personal kuat.  
+Perlu ditambah contoh konkret pada bagian *Sisi Ringan* agar narasi lebih hidup.
+
+---
+
+### UTS-2 — My Songs for You (90 %) {.unnumbered}
+**Kriteria Nilai:**  
+Orisinalitas = 4 Keterlibatan = 5 Humor = 4 Inspirasi = 5  
+
+**Catatan & Refleksi:**  
+Pilihan lagu *“7 Years”* relevan dengan tema refleksi diri.  
+Akan lebih bermakna bila ditambah momen pribadi saat lagu ini terasa signifikan.
+
+---
+
+### UTS-3 — My Stories for You (95 %) {.unnumbered}
+**Kriteria Nilai:**  
+Orisinalitas = 5 Keterlibatan = 5 Pengembangan Narasi = 4 Inspirasi = 5  
+
+**Catatan & Refleksi:**  
+Kisah menggambarkan perjalanan dan pertumbuhan diri dengan baik.  
+Disarankan menambahkan satu konflik kecil agar ketegangan emosional meningkat.
+
+---
+
+### UTS-4 — My SHAPE (85 %) {.unnumbered}
+**Kriteria Nilai:**  
+Orisinalitas = 4 Keterlibatan = 4 Pengembangan Narasi = 4 Inspirasi = 5  
+
+**Catatan & Refleksi:**  
+Setiap komponen S-H-A-P-E telah dijelaskan dengan sistematis.  
+Akan lebih kuat jika ditambah pengalaman nyata yang mencerminkan kekuatan diri.
+
+---
+
+### UTS-5 — My Personal Reviews (80 %) {.unnumbered}
+**Kriteria Nilai:**  
+Pemahaman Konsep Interpersonal = 4 Analisis Kritis Pesan = 4 Argumentasi (Logos) = 4 Etos & Empati = 4 Rekomendasi Perbaikan = 4  
+
+**Catatan & Refleksi:**  
+Analisis menunjukkan pemahaman konsep interpersonal yang baik.  
+Gunakan pola tetap: *tujuan – audiens – hal efektif – aspek perbaikan – langkah konkret.*
+
+***
+
+## Skor dan Ringkasan Penilaian {.unnumbered}
+
+| UTS | Skor | CPMK-1 | CPMK-2 | CPMK-3 | CPMK-4 |
+|-----|------|---------|---------|---------|---------|
+| UTS-1 | 95 | 3.80 | 5.70 | 0.00 | 0.00 |
+| UTS-2 | 90 | 4.50 | 6.30 | 0.00 | 0.00 |
+| UTS-3 | 95 | 5.70 | 6.65 | 0.00 | 0.00 |
+| UTS-4 | 85 | 5.95 | 5.10 | 0.00 | 0.00 |
+| UTS-5 | 80 | 6.40 | 8.00 | 0.00 | 0.00 |
+
+**Total Kontribusi CPMK:**  
+CPMK-1 = 26.35  CPMK-2 = 31.75  CPMK-3 = 0.00  CPMK-4 = 0.00  
+
+***
+
+## Refleksi Akhir {.unnumbered}
+Melalui seluruh proses UTS ini, saya belajar bahwa refleksi diri bukan hanya sekadar menulis tentang pengalaman, tetapi juga memahami nilai-nilai yang membentuk cara berpikir dan berinteraksi.  
+Setiap bagian portofolio menunjukkan sisi berbeda dari diri saya — mulai dari mengenal jati diri, memaknai lagu, hingga menilai kekuatan pribadi dan cara berkomunikasi.
+
+Proses ini menegaskan bahwa komunikasi efektif tidak hanya tentang berbicara, tetapi juga tentang memahami, berempati, dan belajar dari setiap interaksi.  
+Saya berkomitmen untuk terus mengembangkan kemampuan ini di masa depan agar dapat menjadi pribadi yang lebih reflektif, terbuka, dan bermanfaat bagi lingkungan sekitar.
