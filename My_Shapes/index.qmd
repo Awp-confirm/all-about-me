@@ -1,5 +1,88 @@
 # UTS-4 My Shapes
 
-## Pendahuluan
+## Identitas Diri  
 
-Saya 
+- **Nama:** Muhammad Azikra Wira Pratama  
+- **NIM:** 18224089
+- **Kelas:** K-01
+
+---
+
+## Pernyataan Misi Pribadi  
+> "Saya ingin menjadi seseorang yang menggunakan kemampuan teknologi untuk menciptakan solusi yang berdampak positif bagi masyarakat.
+Positif ini tidak hanya mencakup dampak positif secara kehidupan namun perkembangan masyarkat mulai dari cara berpikir untuk mau berkembang dan memiliki rasa manusiawi."  
+
+---
+
+## Kekuatan Khas (S)
+
+### Kekuatan #1: Rasa ingin tahu tinggi terhadap hal baru {.unnumbered} 
+Saya selalu terdorong untuk mempelajari hal-hal baru dan mencari tahu bagaimana sesuatu bekerja. Rasa ingin tahu ini membantu saya cepat memahami topik baru dan beradaptasi dengan perubahan, terutama dalam bidang teknologi yang terus berkembang.
+
+### Kekuatan #2: Dapat menentukan skala prioritas sesuai yang dibutuhkan {.unnumbered}
+Saya mampu mengenali hal yang paling penting untuk dikerjakan terlebih dahulu dan mengatur waktu agar tetap efisien. Kemampuan ini membantu saya tetap fokus dan terarah dalam menghadapi banyak tugas sekaligus.
+
+### Kekuatan #3: Berempati dengan situasi yang dihadapi oleh teman {.unnumbered}
+Saya berusaha memahami kondisi dan perasaan orang lain sebelum mengambil tindakan. Sikap empati ini membuat saya dapat membangun hubungan yang baik, mendukung rekan kerja, dan menjaga suasana kerja yang positif.
+
+
+---
+
+## Nilai Inti & Gairah (H)
+
+### Nilai Inti #1: Kreativitas menuangkan ide positif dan berbagi lewat sosial media {.unnumbered}
+Saya percaya ide dan kreativitas akan bermakna jika dibagikan. Melalui media sosial, saya senang membagikan hal-hal positif yang bisa menginspirasi dan membangun semangat orang lain.
+
+### Nilai Inti #2: Mengingatkan teman mengenai hal yang kurang tepat {.unnumbered}
+Saya menghargai kejujuran dan rasa tanggung jawab sosial. Mengingatkan teman dengan cara yang baik merupakan bentuk kepedulian agar lingkungan sekitar menjadi lebih baik dan saling belajar.
+
+Saya bersemangat tentang: Ikut mengembangkan komunitas.
+Saya ingin berkontribusi dalam kegiatan yang memperkuat hubungan antarindividu dan membantu sesama tumbuh bersama, baik di lingkungan kampus maupun masyarakat luas.
+
+---
+
+## Keterampilan Utama (A)
+
+### **Hard Skills:** {.unnumbered}  
+Saya memiliki kemampuan dasar dalam pemrograman Python, C, dan Java. Kemampuan ini melatih logika berpikir sistematis dan membantu saya memahami struktur permasalahan secara terukur.
+
+### **Soft Skills:** {.unnumbered}
+Saya terbiasa bekerja sama dalam tim dan berkomunikasi secara efektif. Dalam kerja kelompok, saya berusaha memahami peran masing-masing anggota serta menjaga keterbukaan agar kerja sama berjalan lancar.
+
+---
+
+## Profil Kepribadian (P)
+
+### **Tipe MBTI:** INFP {.unnumbered}
+
+Saya cenderung reflektif, idealis, dan berorientasi pada makna dari setiap hal yang saya lakukan. Saya lebih fokus pada nilai dan tujuan yang mendasari pekerjaan.
+
+### **Gaya Kerja yang Disukai:** Menyukai tantangan baru dan kolaboratif. {.unnumbered}
+
+Saya lebih produktif saat bekerja dengan orang lain dalam lingkungan yang terbuka terhadap ide baru. Tantangan baru memberi saya motivasi untuk belajar dan berinovasi.
+
+---
+
+## Pelajaran Hidup Kunci (E)
+
+- Dari **berorganisasi**, saya belajar bahwa komunikasi yang terbuka dan kerja sama yang saling mendukung adalah kunci keberhasilan tim.
+- Dari **dunia perkuliahan**, saya belajar bahwa ilmu pengetahuan tidak hanya datang dari materi kuliah, tetapi juga dari cara berpikir kritis dan kemampuan menyesuaikan diri dengan perubahan.
+
+---
+
+## Refleksi Akhir
+
+> _Diriku yang esok hari ini harus menjadi lebih baik dari diriku yang saat ini. Saya menggunakan pola pikir itu dalam menghadapi berbagai hal dalam kehidupan._
+
+---
+
+## Catatan
+Template ini menggunakan konsep **S-H-A-P-E**:
+
+| Huruf | Arti | Fokus |
+|:------|:------|:------|
+| **S** | Strengths | Kekuatan khas dan keunikan pribadi |
+| **H** | Heart | Nilai inti dan hal yang kamu cintai |
+| **A** | Abilities | Keterampilan utama (hard & soft skills) |
+| **P** | Personality | Profil kepribadian dan gaya kerja |
+| **E** | Experiences | Pelajaran hidup dari pengalaman nyata |
