@@ -1,4 +1,4 @@
-# UTS-4 My Shapes
+# UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
 
 ## Identitas Diri  
 
@@ -8,67 +8,84 @@
 
 ---
 
+## Hasil Tes VIA Character Strengths
+
+Tautan : [HASIL TES](StrengthsProfile-MuhammadAzikra-WiraPratama.pdf)
+
+---
+
 ## Pernyataan Misi Pribadi  
 > "Saya ingin menjadi seseorang yang menggunakan kemampuan teknologi untuk menciptakan solusi yang berdampak positif bagi masyarakat.
 Positif ini tidak hanya mencakup dampak positif secara kehidupan namun perkembangan masyarkat mulai dari cara berpikir untuk mau berkembang dan memiliki rasa manusiawi."  
 
 ---
 
-## Kekuatan Khas (S)
+## Strengths (S) {.unnumbered}
 
-### Kekuatan #1: Rasa ingin tahu tinggi terhadap hal baru {.unnumbered} 
-Saya selalu terdorong untuk mempelajari hal-hal baru dan mencari tahu bagaimana sesuatu bekerja. Rasa ingin tahu ini membantu saya cepat memahami topik baru dan beradaptasi dengan perubahan, terutama dalam bidang teknologi yang terus berkembang.
+Saya memiliki kekuatan utama dalam apresiasi terhadap keindahan dan keunggulan, pertimbangan, kerja sama tim, spiritualitas, rasa syukur, keadilan, harapan, keingintahuan, dan kerendahan hati.  
 
-### Kekuatan #2: Dapat menentukan skala prioritas sesuai yang dibutuhkan {.unnumbered}
-Saya mampu mengenali hal yang paling penting untuk dikerjakan terlebih dahulu dan mengatur waktu agar tetap efisien. Kemampuan ini membantu saya tetap fokus dan terarah dalam menghadapi banyak tugas sekaligus.
+Saya menghargai keindahan dalam karya, alam, dan kehidupan sehari-hari, serta berusaha untuk melakukan segala hal dengan sepenuh hati.  
 
-### Kekuatan #3: Berempati dengan situasi yang dihadapi oleh teman {.unnumbered}
-Saya berusaha memahami kondisi dan perasaan orang lain sebelum mengambil tindakan. Sikap empati ini membuat saya dapat membangun hubungan yang baik, mendukung rekan kerja, dan menjaga suasana kerja yang positif.
+Saya cenderung berpikir matang sebelum bertindak, selalu menimbang sudut pandang berbeda agar keputusan saya objektif.  
 
+Dalam kerja tim, saya menjaga komitmen, mendukung anggota lain, dan berkontribusi untuk mencapai tujuan bersama.  
 
----
+Nilai spiritual memberi arah bagi saya, membuat saya tetap tenang dalam menghadapi tantangan.  
 
-## Nilai Inti & Gairah (H)
+Saya juga mudah bersyukur, menghargai hal kecil, dan menjunjung keadilan dalam memperlakukan orang lain.  
 
-### Nilai Inti #1: Kreativitas menuangkan ide positif dan berbagi lewat sosial media {.unnumbered}
-Saya percaya ide dan kreativitas akan bermakna jika dibagikan. Melalui media sosial, saya senang membagikan hal-hal positif yang bisa menginspirasi dan membangun semangat orang lain.
-
-### Nilai Inti #2: Mengingatkan teman mengenai hal yang kurang tepat {.unnumbered}
-Saya menghargai kejujuran dan rasa tanggung jawab sosial. Mengingatkan teman dengan cara yang baik merupakan bentuk kepedulian agar lingkungan sekitar menjadi lebih baik dan saling belajar.
-
-Saya bersemangat tentang: Ikut mengembangkan komunitas.
-Saya ingin berkontribusi dalam kegiatan yang memperkuat hubungan antarindividu dan membantu sesama tumbuh bersama, baik di lingkungan kampus maupun masyarakat luas.
+Harapan dan rasa ingin tahu membuat saya selalu optimis dan tertarik untuk belajar hal baru, sementara kerendahan hati membantu saya menerima masukan dengan terbuka.  
 
 ---
 
-## Keterampilan Utama (A)
+## Heart (H) {.unnumbered}
 
-### **Hard Skills:** {.unnumbered}  
-Saya memiliki kemampuan dasar dalam pemrograman Python, C, dan Java. Kemampuan ini melatih logika berpikir sistematis dan membantu saya memahami struktur permasalahan secara terukur.
+Saya memiliki gairah yang besar terhadap kreativitas, refleksi, dan kontribusi sosial.  
 
-### **Soft Skills:** {.unnumbered}
-Saya terbiasa bekerja sama dalam tim dan berkomunikasi secara efektif. Dalam kerja kelompok, saya berusaha memahami peran masing-masing anggota serta menjaga keterbukaan agar kerja sama berjalan lancar.
+Saya menikmati proses menciptakan sesuatu yang bermakna dan mencari cara agar karya saya membawa manfaat bagi orang lain.  
 
----
+Nilai inti saya terletak pada kejujuran, empati, dan keinginan untuk terus berkembang.  
 
-## Profil Kepribadian (P)
-
-### **Tipe MBTI:** INFP {.unnumbered}
-
-Saya cenderung reflektif, idealis, dan berorientasi pada makna dari setiap hal yang saya lakukan. Saya lebih fokus pada nilai dan tujuan yang mendasari pekerjaan.
-
-### **Gaya Kerja yang Disukai:** Menyukai tantangan baru dan kolaboratif. {.unnumbered}
-
-Saya lebih produktif saat bekerja dengan orang lain dalam lingkungan yang terbuka terhadap ide baru. Tantangan baru memberi saya motivasi untuk belajar dan berinovasi.
+Saya merasa puas ketika dapat membantu orang lain menemukan potensi mereka dan melihat dampak nyata dari kolaborasi yang baik.  
 
 ---
 
-## Pelajaran Hidup Kunci (E)
+## Abilities (A) {.unnumbered}
 
-- Dari **berorganisasi**, saya belajar bahwa komunikasi yang terbuka dan kerja sama yang saling mendukung adalah kunci keberhasilan tim.
-- Dari **dunia perkuliahan**, saya belajar bahwa ilmu pengetahuan tidak hanya datang dari materi kuliah, tetapi juga dari cara berpikir kritis dan kemampuan menyesuaikan diri dengan perubahan.
+Saya memiliki kemampuan teknis di bidang pemrograman menggunakan Python, C, dan Java.  
+
+Selain itu, saya terbiasa menggunakan logika dan pendekatan sistematis dalam menyelesaikan masalah.  
+
+Dalam aspek non-teknis, saya mengandalkan kemampuan komunikasi yang efektif dan kerja tim untuk menjaga alur kerja tetap efisien.  
+
+Saya percaya bahwa kemampuan bukan hanya tentang apa yang bisa dilakukan, tetapi bagaimana kemampuan itu digunakan untuk memberikan hasil yang bermanfaat bagi lingkungan sekitar.  
 
 ---
+
+## Personality (P) {.unnumbered}
+
+Saya termasuk tipe kepribadian **INFP** : reflektif, empatik, dan idealis.  
+
+Saya lebih suka bekerja dengan makna yang jelas dan lingkungan yang memberi ruang untuk berpikir dan berinovasi.  
+
+Saya senang berkolaborasi dengan orang lain, terutama ketika visi yang dibangun bersama terasa bermakna dan positif.  
+
+Saya berorientasi pada nilai dan lebih menghargai proses dibanding sekadar hasil akhir.  
+
+---
+
+## Experiences (E) {.unnumbered}
+
+Dari pengalaman berorganisasi, saya belajar pentingnya komunikasi yang jujur dan koordinasi yang baik antaranggota tim.  
+
+Saya menyadari bahwa keberhasilan tidak hanya datang dari kemampuan individu, tetapi juga dari rasa saling percaya dan tanggung jawab bersama.  
+
+Dari dunia perkuliahan, saya belajar bahwa ilmu sangat luas dan menuntut pola pikir terbuka.  
+
+Proses belajar bukan hanya tentang memahami teori, tetapi juga tentang bagaimana menerapkannya dengan etika dan kesadaran diri.  
+
+---
+
 
 ## Refleksi Akhir
 
