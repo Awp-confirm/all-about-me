@@ -3,6 +3,12 @@ Berikut cara saya melakukan review: mengguan chatGPT, saya mengattach [file prom
 
 ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](Self-Assessment_UTS-1_s_d__UTS-5__dibuat_otomatis_.csv). 
 
+## Hasil Peer Assessment
+Link 1 : [Link1](UTS-5_Skor.xlsx)
+
+Link 2 (Cadangan): [Link2](https://docs.google.com/spreadsheets/d/1fZ07IFHIUJn8kwhApUMrOGOz6-yZqwej/edit?gid=18198366#gid=18198366)
+
+
 ## Hasil Self-Assessment UTS (URL: https://awp-confirm.github.io/all-about-me/)
 
 ### Identifikasi {.unnumbered}
