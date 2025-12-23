@@ -1,142 +1,31 @@
 # UAS-1 My Concepts
 
-## My Concept: Progress 1% Bukan Hal Kecil
+## My Concept: Perubahan Iklim sebagai Masalah Akumulatif
 
 ### Ringkasan 5 Kalimat
-1. **Fenomena:** Banyak orang menginginkan perubahan besar, tetapi berhenti di tengah jalan karena menganggap langkah kecil tidak signifikan.
-2. **Masalah inti:** Fokus pada hasil instan membuat proses kecil yang berulang diremehkan, padahal justru proses itulah yang menentukan keberlanjutan perubahan.
-3. **Konsep saya:** *Progress 1%* adalah pendekatan perubahan yang menekankan tindakan mikro yang konsisten dan terukur.
-4. **Cara kerja singkat:** Target besar dipecah menjadi unit harian kecil yang diberi pemicu, dicatat, dan dievaluasi secara berkala.
-5. **Manfaat:** Konsep ini menghasilkan perubahan yang lebih realistis, tahan lama, dan dapat diterapkan pada berbagai aspek kehidupan.
+1. **Fenomena:** Perubahan iklim sering dipahami sebagai rangkaian bencana terpisah, bukan sebagai proses jangka panjang.
+2. **Masalah inti:** Cara pandang ini membuat respons manusia bersifat reaktif dan tidak berkelanjutan.
+3. **Konsep saya:** Perubahan iklim adalah hasil akumulasi tindakan kecil manusia yang berlangsung terus-menerus.
+4. **Cara kerja konsep:** Aktivitas harian seperti konsumsi energi dan pola mobilitas membentuk dampak global secara kolektif.
+5. **Manfaat:** Konsep ini mendorong tanggung jawab individual dan kebijakan jangka panjang.
 
-### Apa itu “berkonsep”?
-Berkonsep berarti memiliki kerangka pikir yang jelas untuk menjelaskan **mengapa** suatu tindakan dilakukan, **bagaimana** tindakan itu dijalankan, dan **bagaimana** keberhasilannya dievaluasi. Berkonsep bukan sekadar mengandalkan motivasi, melainkan merancang sistem yang tetap berjalan meskipun motivasi menurun.
+### Definisi Konsep
+Perubahan iklim sebagai masalah akumulatif berarti bahwa krisis lingkungan tidak muncul akibat satu kejadian besar, melainkan dari penumpukan keputusan dan kebiasaan manusia yang terjadi secara konsisten dalam waktu panjang.
 
-## Fenomena yang Saya Angkat
+### Thesis
+**Thesis:** Karena perubahan iklim merupakan hasil akumulasi keputusan manusia sehari-hari, maka solusi yang efektif harus bersifat sistemik, konsisten, dan berjangka panjang.
 
-### Fenomena
-Dalam kehidupan sehari-hari, banyak orang menetapkan target besar seperti meningkatkan prestasi akademik, menguasai keterampilan baru, atau memperbaiki gaya hidup. Namun, target tersebut sering dikaitkan dengan tuntutan perubahan drastis: waktu panjang, energi besar, dan kondisi ideal. Ketika kondisi ini tidak terpenuhi, tindakan ditunda. Penundaan yang berulang kemudian dilabeli sebagai “kurang disiplin”, padahal akar masalahnya sering terletak pada desain proses yang tidak realistis.
+### Logic
+Konsep ini mengikuti logika sebab–akibat yang jelas: tindakan kecil → pengulangan → akumulasi → dampak global. Dengan struktur ini, konsep memiliki alur penalaran yang koheren dan mudah diikuti.
 
-### Mengapa ini penting
-Cara seseorang memahami proses perubahan akan memengaruhi keputusan hariannya. Ketika perubahan dianggap harus besar sejak awal, konsekuensinya antara lain:
+### Validity
+Berbagai laporan internasional menunjukkan bahwa hampir seluruh populasi dunia terdampak perubahan iklim dan miliaran orang tinggal di wilayah rentan. Hal ini memperkuat validitas bahwa krisis iklim bersifat sistemik dan bertahap, bukan sporadis.
 
-- menunda memulai karena merasa belum siap  
-- berhenti terlalu cepat karena hasil belum terlihat  
-- sering mengganti strategi tanpa evaluasi  
-- menyimpulkan kegagalan sebagai kelemahan pribadi  
+### Usefulness
+Konsep ini berguna karena:
+- membantu masyarakat memahami hubungan tindakan kecil dan dampak besar  
+- menggeser fokus dari respons bencana ke pencegahan  
+- memberi kerangka pikir untuk kebijakan dan perilaku berkelanjutan  
 
-Padahal, dalam banyak konteks pembelajaran dan pengembangan diri, keberhasilan lebih ditentukan oleh **frekuensi dan konsistensi**, bukan oleh intensitas sesekali.
-
-### Contoh nyata yang sering terjadi
-- Belajar hanya menjelang ujian karena belajar singkat dianggap tidak berdampak.
-- Menunda membangun portofolio karena menunggu waktu kosong yang panjang.
-- Berolahraga dengan intensitas tinggi tetapi jarang, lalu berhenti karena kelelahan.
-
-## Konsep Saya: Progress 1% Bukan Hal Kecil
-
-### Definisi singkat
-**Progress 1%** adalah peningkatan kecil yang dilakukan secara konsisten, dengan ukuran yang jelas dan dapat dievaluasi, sehingga menghasilkan perubahan besar melalui akumulasi jangka panjang.
-
-### Thesis (1 kalimat tegas)
-**Thesis:** Perubahan besar paling efektif dicapai melalui progress kecil yang konsisten, karena akumulasi kebiasaan mikro membentuk kemampuan, identitas, dan hasil secara berkelanjutan.
-
-### Mengapa “1%” itu masuk akal
-Konsep ini masuk akal karena dua alasan utama.
-
-1) **Alasan perilaku:**  
-Tindakan kecil menurunkan hambatan untuk memulai. Dalam praktiknya, kegagalan konsistensi lebih sering disebabkan oleh besarnya beban awal, bukan oleh kurangnya niat.
-
-2) **Alasan akumulasi:**  
-Perubahan kecil yang diulang akan saling menumpuk. Walaupun setiap langkah terlihat tidak signifikan, dampaknya menjadi besar ketika dilakukan secara konsisten dalam jangka waktu panjang.
-
-Dengan demikian, “1%” bukan ukuran matematis literal, melainkan representasi dari **perubahan yang cukup kecil untuk dilakukan, tetapi cukup konsisten untuk berdampak**.
-
-## Cara Kerja Konsep
-
-### Komponen konsep
-Konsep progress 1% terdiri dari enam komponen utama:
-
-1. **Arah besar:** tujuan bermakna yang menjadi orientasi perubahan.
-2. **Unit 1%:** tindakan mikro berdurasi singkat yang realistis dilakukan setiap hari.
-3. **Pemicu:** aturan situasional yang memicu tindakan secara otomatis.
-4. **Bukti:** pencatatan sederhana sebagai indikator konsistensi.
-5. **Review:** evaluasi berkala untuk memperbaiki sistem.
-6. **Naik level:** peningkatan bertahap setelah sistem stabil.
-
-### Mekanisme langkah demi langkah
-1. Menentukan arah besar dalam satu kalimat yang jelas.
-2. Mengidentifikasi kemampuan inti yang paling menentukan arah tersebut.
-3. Mendesain unit 1% yang kecil, spesifik, dan terukur.
-4. Menetapkan pemicu yang konsisten dalam rutinitas harian.
-5. Mencatat eksekusi sebagai bukti, bukan sebagai ajang pamer.
-6. Melakukan review mingguan dengan fokus memperbaiki sistem.
-7. Meningkatkan standar secara bertahap setelah konsistensi tercapai.
-
-### Prediksi yang dihasilkan konsep
-Jika konsep ini diterapkan dengan benar:
-
-- konsistensi meningkat karena beban harian ringan  
-- kemampuan berkembang karena latihan lebih sering  
-- resistensi untuk memulai menurun  
-- hasil besar muncul sebagai efek akumulasi  
-
-## Validity (Mengapa Konsep Ini Kredibel)
-
-### Dukungan dari literatur
-- Pembentukan kebiasaan bergantung pada pengulangan dalam konteks yang konsisten dan memerlukan waktu. [@lally2010]  
-- Peningkatan performa berkorelasi kuat dengan latihan terstruktur dan berulang, bukan sesi besar yang jarang. [@ericsson1993]  
-- Pendekatan perubahan kecil dipopulerkan secara luas dalam literatur pengembangan kebiasaan modern. [@clear2018; @fogg2020]
-
-### Bukan sekadar motivasi
-Konsep ini tidak menuntut peningkatan motivasi, melainkan perbaikan desain perilaku:
-
-- ukuran tugas diperkecil  
-- pemicu dibuat eksplisit  
-- progres dicatat  
-- sistem dievaluasi  
-- standar dinaikkan secara bertahap  
-
-## Usefulness (Kegunaan Praktis)
-
-### Template penerapan 7 hari
-Format sederhana yang dapat langsung digunakan:
-
-- **Arah besar:** satu kalimat tujuan  
-- **Unit 1%:** tindakan 10–30 menit  
-- **Pemicu:** setelah X, lakukan Y  
-- **Bukti:** ceklis harian + catatan singkat  
-- **Review hari ke-7:** identifikasi hambatan dan perbaiki sistem  
-
-### Contoh aplikasi
-**Akademik:** latihan soal singkat setiap hari dan evaluasi mingguan.  
-**Skill teknis:** satu problem atau fitur kecil per hari.  
-**Kesehatan:** perubahan kecil yang konsisten, lalu ditingkatkan bertahap.
-
-### Checklist tindakan
-- [ ] Arah besar jelas  
-- [ ] Unit 1% realistis  
-- [ ] Pemicu konsisten  
-- [ ] Bukti dicatat  
-- [ ] Review dilakukan  
-- [ ] Standar dinaikkan bertahap  
-
-## Batasan dan Kontra-Argumen
-
-### Keterbatasan konsep
-Konsep ini dapat gagal jika:
-
-- unit 1% terlalu besar  
-- tidak ada ukuran atau bukti  
-- lingkungan tidak mendukung  
-- evaluasi diabaikan  
-
-### Kontra-argumen dan jawaban
-**Kontra-argumen:** “Progress kecil terlalu lambat untuk perubahan besar.”  
-**Jawaban:** Progress kecil bukan meniadakan lompatan besar, melainkan membangun fondasi agar lompatan tersebut menjadi mungkin dan berkelanjutan.
-
-## Penutup
-
-### Kesimpulan 3 Kalimat
-1. Progress 1% tampak kecil dalam satu hari, tetapi signifikan ketika dilakukan berulang.
-2. Sistem harian yang dirancang dengan baik lebih andal daripada motivasi sesaat.
-3. Perubahan besar adalah hasil akumulasi proses kecil yang konsisten.
+### Kesimpulan
+Perubahan iklim bukan kejadian tunggal, melainkan hasil akumulasi. Dengan memahami konsep ini, manusia dapat merancang solusi yang lebih realistis dan bertahan lama.

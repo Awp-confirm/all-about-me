@@ -1,181 +1,38 @@
 # UAS-3 My Innovations
 
-## My Innovation: CLEARLOOP  
-### Sistem Refleksi Singkat untuk Meningkatkan Kualitas dan Keakuratan Komunikasi
+## My Innovation: CARBON MIRROR  
+### Sistem Refleksi Jejak Karbon untuk Meningkatkan Efektivitas Komunikasi Lingkungan
 
-## Ringkasan 5 Kalimat
-1. **Masalah:** Banyak miskomunikasi terjadi bukan karena pesan tidak disampaikan, tetapi karena tidak ada mekanisme untuk memastikan kesamaan pemahaman.
-2. **Kondisi saat ini:** Komunikasi sering berhenti pada penyampaian pesan, tanpa umpan balik terstruktur dari penerima.
-3. **Inovasi saya:** CLEARLOOP adalah kerangka refleksi singkat pascakomunikasi untuk memverifikasi pemahaman sebelum tindakan dilakukan.
-4. **Cara kerja:** Setiap pihak melakukan refleksi terstruktur melalui lima langkah sederhana yang konsisten.
-5. **Manfaat:** Inovasi ini meningkatkan kejelasan komunikasi, menurunkan kesalahan, dan membangun kepercayaan dalam interaksi.
+### Ringkasan 5 Kalimat
+1. **Masalah:** Komunikasi isu iklim sering abstrak dan sulit dirasakan secara personal.
+2. **Inovasi:** CARBON MIRROR adalah sistem refleksi jejak karbon harian.
+3. **Cara kerja:** Individu merefleksikan aktivitas dan dampaknya terhadap lingkungan.
+4. **Keunggulan:** Sederhana, tidak membutuhkan teknologi kompleks.
+5. **Manfaat:** Meningkatkan kesadaran dan perubahan perilaku berkelanjutan.
 
-## Latar Belakang Masalah
+### Desain Inovasi
+CARBON MIRROR menggunakan tiga pertanyaan reflektif:
 
-### Kondisi yang dihadapi
-Dalam konteks belajar kelompok, kerja tim, organisasi, dan diskusi formal, komunikasi sering dianggap selesai ketika pesan telah disampaikan. Namun, penyampaian pesan tidak menjamin bahwa makna yang diterima sesuai dengan maksud pengirim.
+- Aktivitas apa yang paling berdampak hari ini?  
+- Apa alternatif yang lebih ramah lingkungan?  
+- Perubahan kecil apa yang bisa dilakukan besok?  
 
-Akibat dari kondisi ini antara lain:
+### Cara Kerja
+1. Aktivitas harian selesai  
+2. Refleksi singkat dilakukan  
+3. Kesadaran meningkat  
+4. Perilaku diperbaiki secara bertahap  
 
-- salah tafsir terhadap tugas atau keputusan  
-- ketidaksinkronan ekspektasi  
-- konflik yang muncul setelah eksekusi  
-- pemborosan waktu dan energi untuk klarifikasi ulang  
+### Feasibility
+Inovasi ini dapat diterapkan sebagai:
+- jurnal pribadi  
+- modul edukasi  
+- format diskusi kelompok  
 
-### Mengapa ini penting
-Komunikasi yang efektif tidak hanya menekankan kemampuan berbicara atau menulis, tetapi juga kemampuan memastikan bahwa makna berpindah secara akurat. Tanpa mekanisme verifikasi pemahaman, miskomunikasi akan terus berulang.
+### Dampak Komunikasi
+- pesan lingkungan menjadi personal  
+- komunikasi lebih efektif  
+- empati dan tanggung jawab meningkat  
 
-Masalah ini semakin signifikan di era digital karena komunikasi cenderung:
-
-- berlangsung cepat  
-- bersifat ringkas  
-- minim konteks emosional dan nonverbal  
-
-## Inovasi yang Saya Usulkan
-
-### Apa itu CLEARLOOP
-**CLEARLOOP** adalah kerangka desain komunikasi berbasis refleksi singkat yang diterapkan setelah interaksi penting untuk memastikan pemahaman bersama sebelum tindakan dilanjutkan.
-
-CLEARLOOP tidak dirancang sebagai aplikasi tunggal, melainkan sebagai **sistem konseptual** yang dapat diimplementasikan dalam berbagai bentuk, seperti:
-
-- fitur dalam platform digital  
-- format penutup diskusi atau rapat  
-- kebiasaan komunikasi dalam tim atau organisasi  
-
-### Tujuan utama inovasi
-Inovasi ini dirancang untuk:
-
-- meningkatkan kejelasan dan akurasi komunikasi  
-- mengurangi miskomunikasi sejak tahap awal  
-- melatih refleksi, empati, dan kesadaran peran  
-- membangun budaya komunikasi dua arah  
-
-## Desain Sistem CLEARLOOP
-
-### Komponen utama
-CLEARLOOP terdiri dari lima langkah refleksi yang dilakukan secara konsisten.
-
-1. **C – Capture**  
-   Penerima pesan merangkum inti pesan dengan bahasa sendiri.
-
-2. **L – Link**  
-   Pesan dihubungkan dengan peran, tugas, atau konteks pribadi.
-
-3. **E – Expectation**  
-   Penerima menyebutkan apa yang diharapkan atau akan dilakukan setelah komunikasi.
-
-4. **A – Ask**  
-   Penerima mengajukan satu pertanyaan klarifikasi jika ada ketidakjelasan.
-
-5. **R – Reflect**  
-   Semua pihak menilai apakah pesan sudah cukup jelas atau masih ambigu.
-
-### Format refleksi (contoh)
-Refleksi dilakukan secara singkat melalui pertanyaan berikut:
-
-- “Yang saya pahami dari komunikasi ini adalah …”  
-- “Peran atau tindakan saya setelah ini adalah …”  
-- “Hal yang masih perlu saya pastikan adalah …”  
-
-Seluruh proses dirancang selesai dalam **2–3 menit**.
-
-## Cara Kerja Inovasi
-
-### Alur penggunaan
-1. Terjadi komunikasi penting seperti briefing, diskusi, atau penugasan.
-2. CLEARLOOP diaktifkan sebagai tahap penutup komunikasi.
-3. Semua pihak melakukan refleksi singkat secara lisan atau tertulis.
-4. Perbedaan pemahaman langsung terlihat.
-5. Klarifikasi dilakukan sebelum eksekusi dimulai.
-
-### Alasan efektivitas
-CLEARLOOP efektif karena:
-
-- refleksi memaksa pemrosesan ulang informasi  
-- penggunaan bahasa sendiri mengungkap kesalahpahaman tersembunyi  
-- pertanyaan eksplisit mencegah asumsi yang tidak disadari  
-
-## Contoh Penerapan
-
-### Dalam kerja kelompok
-Setelah pembagian tugas, setiap anggota menyampaikan:
-
-- pemahamannya terhadap tugas  
-- peran yang akan dijalankan  
-- batas waktu versinya  
-
-Dampaknya:
-
-- konflik peran berkurang  
-- koordinasi menjadi lebih sinkron  
-
-### Dalam lingkungan akademik
-Mahasiswa diminta merangkum kembali instruksi tugas sebelum mulai mengerjakan.
-
-Manfaatnya:
-
-- pertanyaan berulang berkurang  
-- kualitas hasil tugas meningkat  
-
-### Dalam organisasi atau kepanitiaan
-Setiap rapat ditutup dengan sesi CLEARLOOP singkat.
-
-Hasil yang diharapkan:
-
-- keputusan lebih jelas  
-- eksekusi lebih cepat  
-- kesalahan koordinasi menurun  
-
-## Keunggulan Inovasi
-
-### Dibandingkan komunikasi konvensional
-CLEARLOOP:
-
-- menambahkan lapisan verifikasi pemahaman  
-- mengurangi ketergantungan pada asumsi  
-- mendorong partisipasi aktif semua pihak  
-
-### Dibandingkan alat komunikasi lain
-- tidak membutuhkan teknologi kompleks  
-- dapat diterapkan secara offline maupun online  
-- berfokus pada proses komunikasi, bukan platform  
-
-## Dampak yang Diharapkan
-
-### Dampak jangka pendek
-- peningkatan kejelasan tugas  
-- penurunan miskomunikasi  
-- efisiensi waktu klarifikasi  
-
-### Dampak jangka panjang
-- terbentuknya budaya komunikasi reflektif  
-- meningkatnya kesadaran berkomunikasi  
-- meningkatnya kepercayaan dalam tim  
-
-## Keterbatasan dan Tantangan
-
-### Potensi kendala
-- dianggap membuang waktu pada tahap awal penerapan  
-- membutuhkan komitmen dari seluruh pihak  
-- berisiko menjadi formalitas jika tidak dijalankan dengan serius  
-
-### Strategi mitigasi
-- terapkan hanya pada komunikasi penting  
-- batasi durasi maksimal 3 menit  
-- tekankan tujuan refleksi, bukan sekadar prosedur  
-
-## Evaluasi Keberhasilan
-
-Keberhasilan CLEARLOOP dapat dievaluasi melalui:
-
-- penurunan jumlah miskomunikasi  
-- berkurangnya revisi akibat salah tafsir  
-- meningkatnya kepuasan komunikasi tim  
-- kejelasan eksekusi tugas  
-
-## Penutup
-
-### Kesimpulan 3 Kalimat
-1. Miskomunikasi sering terjadi karena tidak adanya mekanisme pengecekan pemahaman.
-2. CLEARLOOP menawarkan solusi inovatif melalui refleksi singkat yang terstruktur dan mudah diterapkan.
-3. Dengan inovasi ini, komunikasi menjadi lebih jelas, efektif, dan berkelanjutan.
+### Kesimpulan
+CARBON MIRROR menjembatani kesenjangan antara informasi iklim dan perubahan perilaku nyata.
