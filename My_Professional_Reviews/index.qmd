@@ -50,7 +50,8 @@ Pendekatan ini menilai kualitas pesan secara objektif, bukan niat penulis.
 | Validity | 4 | Argumen kuat dan didukung literatur, meskipun tidak seluruhnya empiris. |
 | Usefulness | 5 | Konsep aplikatif dan relevan untuk konteks akademik maupun personal. |
 
-**Total Skor UAS-1 (Self): 19 / 20**
+**Total Skor UAS-1 (Self): 19 / 20**  
+**Persentase Pencapaian UAS-1:** 95%
 
 ---
 
@@ -65,7 +66,8 @@ Pendekatan ini menilai kualitas pesan secara objektif, bukan niat penulis.
 | Persuasive | 4 | Argumen normatif konsisten dan masuk akal. |
 | Engaging | 5 | Bahasa reflektif menjaga keterlibatan pembaca. |
 
-**Total Skor UAS-2 (Self): 17 / 20**
+**Total Skor UAS-2 (Self): 17 / 20**  
+**Persentase Pencapaian UAS-2:** 85%
 
 ---
 
@@ -80,7 +82,8 @@ Pendekatan ini menilai kualitas pesan secara objektif, bukan niat penulis.
 | Clarity | 5 | Mekanisme dan contoh dijelaskan sistematis. |
 | Communication Impact | 5 | Dampak langsung pada peningkatan kualitas komunikasi. |
 
-**Total Skor UAS-3 (Self): 19 / 20**
+**Total Skor UAS-3 (Self): 19 / 20**  
+**Persentase Pencapaian UAS-3:** 95%
 
 ---
 
@@ -95,13 +98,15 @@ Pendekatan ini menilai kualitas pesan secara objektif, bukan niat penulis.
 | Relevance | 5 | Sangat relevan untuk masyarakat dan perkuliahan. |
 | Educational Value | 5 | Memberikan pembelajaran yang jelas dan aplikatif. |
 
-**Total Skor UAS-4 (Self): 19 / 20**
+**Total Skor UAS-4 (Self): 19 / 20**  
+**Persentase Pencapaian UAS-4:** 95%
 
 ---
 
 ### Total Skor Self Assessment
 
-**74 / 80**
+**74 / 80**  
+**Persentase Total Self Assessment:** 92.5%
 
 ---
 
@@ -130,7 +135,8 @@ Dari sudut pandang profesional, website ini:
 | Daya Tarik | 4 | Menarik secara intelektual. |
 | Efektivitas Komunikasi | 5 | Sangat efektif membangun citra penulis. |
 
-**Total Skor Peer Assessment: 18 / 20**
+**Total Skor Peer Assessment: 18 / 20**  
+**Persentase Peer Assessment:** 90%
 
 ---
 
@@ -140,6 +146,9 @@ Dari sudut pandang profesional, website ini:
 |----------------|------|
 | Self Assessment | 74 / 80 |
 | Peer Assessment (ekuivalen) | ± 72 / 80 |
+
+**Self Assessment:** 92.5%  
+**Peer Assessment (ekuivalen):** ± 90%
 
 Perbedaan kecil menunjukkan bahwa penilaian diri cukup objektif dan realistis.
 
