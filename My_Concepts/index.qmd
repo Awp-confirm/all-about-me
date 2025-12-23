@@ -1,6 +1,149 @@
 # UAS-1 My Concepts
-Mau hidup epik ? [Write your Life Story](lifestory.pdf)
 
-Apa itu berkonsep? 
+## My Concept: Progress 1% Bukan Hal Kecil
 
-{{< video https://youtu.be/QVfUlVBO80U?si=yM6q_rwV9rcDBbu7>}}
+### Ringkasan 5 Kalimat
+1. **Fenomena:** Banyak orang ingin perubahan besar, tetapi berhenti karena mengira langkah kecil tidak berarti.
+2. **Masalah inti:** Kita mengejar lonjakan hasil, padahal hasil besar biasanya datang dari akumulasi kebiasaan.
+3. **Konsep saya:** *Progress 1%* adalah desain perubahan lewat tindakan mikro yang konsisten dan terukur.
+4. **Cara kerja singkat:** Ubah target besar menjadi unit harian kecil, pasang pemicu, catat, lalu review agar sistem makin mudah dijalankan.
+5. **Manfaat:** Konsep ini membuat perubahan lebih tahan lama, lebih realistis, dan bisa diterapkan pada belajar, skill, kesehatan, maupun proyek.
+
+### Apa itu “berkonsep”?
+Berkonsep berarti punya kerangka pikir yang bisa menjelaskan tindakan kita dengan jelas: apa tujuannya, bagaimana caranya, dan bagaimana kita mengecek apakah kita maju. Berkonsep itu bukan “semangat”, melainkan “sistem yang bisa diulang” bahkan saat motivasi turun.
+
+## Fenomena yang Saya Angkat
+
+### Fenomena
+Banyak orang memasang target besar, misalnya ingin IP naik, ingin jago coding, ingin konsisten olahraga, atau ingin menyelesaikan proyek. Namun mereka sering menunggu kondisi ideal: waktu panjang, mood bagus, atau energi penuh. Ketika kondisi itu tidak datang, mereka menunda. Ketika menunda berulang, muncul label “aku tidak disiplin”, padahal penyebab utamanya sering berupa desain proses yang terlalu berat.
+
+### Mengapa ini penting
+Fenomena ini penting karena mengubah cara kita mengambil keputusan harian. Jika seseorang hanya percaya perubahan besar harus terasa besar, ia akan:
+- menunda mulai karena merasa belum siap,
+- cepat berhenti karena hasil belum terlihat,
+- berpindah strategi terus menerus,
+- dan akhirnya menganggap dirinya “gagal konsisten”.
+
+Padahal dalam banyak skill dan kebiasaan, keberhasilan lebih sering ditentukan oleh frekuensi dan keberlanjutan, bukan intensitas sesekali.
+
+### Contoh nyata yang sering terjadi
+- Belajar hanya menjelang ujian karena menganggap belajar 20 menit “tidak ada gunanya”.
+- Niat bikin portofolio, tetapi menunggu satu hari kosong penuh yang tidak pernah muncul.
+- Olahraga seminggu sekali dengan sesi berat, lalu tepar dan berhenti dua minggu.
+
+## Konsep Saya: Progress 1% Bukan Hal Kecil
+
+### Definisi singkat
+**Progress 1%** adalah peningkatan kecil yang dilakukan secara konsisten, dengan ukuran yang jelas, sehingga perubahan besar muncul sebagai akumulasi.
+
+### Thesis (1 kalimat tegas)
+**Thesis:** Perubahan besar paling realistis dicapai dengan progress kecil yang konsisten, karena akumulasi kebiasaan kecil membentuk kemampuan, identitas, dan hasil dalam jangka panjang.
+
+### Kenapa “1%” itu masuk akal
+Ada dua alasan utama:
+
+1) **Alasan perilaku:** tugas kecil menurunkan hambatan mulai, sehingga lebih mudah dilakukan setiap hari. Ini penting karena musuh terbesar konsistensi biasanya bukan “sulitnya tugas”, tetapi “biaya untuk memulai”.
+
+2) **Alasan akumulasi:** peningkatan kecil yang diulang menghasilkan efek gabungan.
+
+## Cara Kerja Konsep
+
+### Komponen konsep
+1. **Arah besar:** satu tujuan yang bermakna.
+2. **Unit 1%:** aksi mikro 10 sampai 30 menit, bisa dilakukan meski mood rendah.
+3. **Pemicu:** aturan “setelah X, lakukan Y”.
+4. **Bukti:** pencatatan sederhana (ceklis, log singkat).
+5. **Review:** evaluasi mingguan untuk memperbaiki sistem.
+6. **Naik level:** peningkatan bertahap ketika stabil.
+
+### Mekanisme langkah demi langkah
+1. **Pilih arah besar (1 kalimat).**  
+   Contoh: “Saya ingin lebih kuat di pemecahan masalah pemrograman.”
+2. **Turunkan menjadi kemampuan inti.**  
+   Contoh: “latihan soal”, “membaca solusi”, “menulis ulang konsep”.
+3. **Desain unit 1% yang kecil dan jelas.**  
+   Contoh: “1 soal per hari” atau “20 menit latihan”.
+4. **Pasang pemicu yang konsisten.**  
+   Contoh: “setelah makan malam, 20 menit latihan”.
+5. **Catat bukti eksekusi.**  
+   Cukup ceklis harian, bukan untuk pamer, tetapi untuk menjaga kontinuitas.
+6. **Review mingguan, fokus perbaiki sistem.**  
+   Jika gagal, ubah pemicu, durasi, atau lingkungan, bukan menyalahkan diri.
+7. **Naikkan standar pelan-pelan setelah stabil.**  
+   Misal: dari 1 soal menjadi 2 soal, atau dari 20 menit menjadi 30 menit.
+
+### Prediksi yang dihasilkan konsep
+Jika konsep ini diterapkan dengan benar:
+- konsistensi naik karena tugas harian terasa ringan,
+- kemampuan meningkat karena latihan terjadi lebih sering,
+- “biaya mulai” menurun karena rutinitas otomatis,
+- hasil besar muncul setelah akumulasi, bukan setelah satu momen motivasi.
+
+## Validity (Mengapa Konsep Ini Kredibel)
+
+### Dukungan dari literatur
+- Pembentukan kebiasaan cenderung bergantung pada pengulangan dalam konteks yang konsisten dan butuh waktu, bukan sekali dua kali niat. [@lally2010]
+- Peningkatan performa kuat terkait latihan yang terstruktur dan berulang (deliberate practice), bukan hanya sesi besar yang jarang. [@ericsson1993]
+- Pendekatan perubahan kecil yang mudah dilakukan konsisten juga dipopulerkan dalam kerangka habit-building modern. [@clear2018; @fogg2020]
+
+### Apa yang membuat konsep ini bukan sekadar motivasi
+Konsep ini tidak meminta “semangat lebih”, tetapi meminta “desain lebih baik”:
+- ukuran tugas diperkecil,
+- pemicu dipasang,
+- bukti dicatat,
+- sistem dievaluasi,
+- standar dinaikkan bertahap.
+
+## Usefulness (Cara Pakai)
+
+### Template penerapan 7 hari
+Pakai format ini untuk satu tujuan:
+
+- **Arah besar:** [isi 1 kalimat]  
+- **Unit 1%:** [aksi 10–30 menit]  
+- **Pemicu:** setelah [X], saya melakukan [Y]  
+- **Bukti:** ceklis harian + catatan 1 baris  
+- **Reward kecil:** [hadiah kecil yang sehat, 2–5 menit]  
+- **Review hari ke-7:** apa yang paling menghambat, lalu perbaiki sistem
+
+### Aplikasi 1: Akademik
+- 20 menit latihan soal per hari.
+- 10 menit merangkum 1 konsep per hari.
+- Review mingguan: pilih 3 kesalahan paling sering, fokus perbaikan minggu depan.
+
+### Aplikasi 2: Skill teknis (coding, desain, bahasa)
+- 1 problem per hari atau 20 menit latihan.
+- 1 mini-feature per minggu untuk portofolio.
+- Catat 1 “pelajaran” per hari agar ada umpan balik.
+
+### Aplikasi 3: Kesehatan
+- Jalan kaki 10 menit setelah makan.
+- Kurangi 1 kebiasaan buruk yang paling mudah terlebih dulu, misalnya minuman manis sekali lebih sedikit.
+- Naikkan bertahap setelah stabil.
+
+### Checklist tindakan
+- [ ] Saya punya arah besar (1 kalimat).
+- [ ] Saya punya unit 1% yang kecil dan jelas.
+- [ ] Saya punya pemicu “setelah X, lakukan Y”.
+- [ ] Saya mencatat bukti harian.
+- [ ] Saya melakukan review mingguan untuk memperbaiki sistem.
+- [ ] Saya menaikkan standar bertahap setelah stabil.
+
+## Batasan dan Kontra-Argumen
+
+### Kapan konsep ini bisa gagal
+- Unit 1% terlalu besar, jadi tidak sustainable.
+- Tidak ada ukuran, sehingga progress terasa “tidak nyata”.
+- Lingkungan penuh distraksi, pemicu tidak didukung.
+- Tidak ada review, jadi konsisten tetapi arahnya salah.
+
+### Kontra-argumen dan jawaban
+**Kontra-argumen:** “Progress 1% terlalu kecil, saya butuh perubahan cepat.”  
+**Jawaban:** Progress 1% tidak melarang lompatan besar. Ia membangun fondasi supaya lompatan besar jadi mungkin. Dalam praktiknya, perubahan cepat sering terjadi setelah sistem kecil membuat kita stabil dan siap, bukan sebelum itu.
+
+## Penutup
+
+### Kesimpulan 3 kalimat
+1. Progress 1% terlihat kecil dalam satu hari, tetapi besar ketika diulang.
+2. Sistem harian lebih dapat diandalkan daripada motivasi sesaat.
+3. Perubahan besar adalah hasil akumulasi, bukan keajaiban.
