@@ -1,5 +1,163 @@
 # UAS-5 My Professional Reviews
-Untuk melkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
-- Rubrik [Kisah](Dok.4.a.Rubrik_Kisah.pdf)
-- Rubrik [Konsep](Dok.4.b.Rubrik_Konsep.pdf)
-- Rubrik [Opini](Dok.4.c.Rubrik_Opini.pdf)
+
+## Evaluasi Pesan Publik Berbasis Rubrik
+
+## Objek yang Dinilai
+
+**Media:** Website statis personal  
+**Judul:** All About Me  
+**Tautan:** https://awp-confirm.github.io/all-about-me/
+
+Website ini memuat empat jenis pesan publik utama:
+
+- My Concepts  
+- My Opinions  
+- My Innovations  
+- My Knowledge  
+
+Keseluruhan situs berfungsi sebagai artefak komunikasi akademik yang merepresentasikan kapasitas berpikir dan berkomunikasi penulis.
+
+---
+
+## Metodologi Penilaian
+
+Penilaian dilakukan menggunakan pendekatan **evaluasi esai berbasis rubrik**, sebagaimana dijelaskan dalam dokumen *Menilai dan Mengevaluasi Esai Berdasarkan Rubrik*.
+
+Tahapan evaluasi meliputi:
+
+- menetapkan rubrik yang relevan untuk setiap jenis pesan,  
+- mengidentifikasi bukti pencapaian kriteria dalam teks,  
+- memberikan skor numerik sesuai deskriptor rubrik,  
+- menyertakan justifikasi tertulis untuk setiap skor.  
+
+Pendekatan ini menilai kualitas pesan secara objektif, bukan niat penulis.
+
+---
+
+# A. Self Assessment  
+*(Penilaian sebagai penulis pesan)*
+
+---
+
+## A.1 UAS-1 My Concepts
+
+**Rubrik:** Clarity, Logic, Validity, Usefulness
+
+| Kriteria | Skor | Justifikasi |
+|--------|------|-------------|
+| Clarity | 5 | Konsep didefinisikan secara eksplisit, konsisten, dan mudah dipahami. |
+| Logic | 5 | Alur fenomena hingga implikasi tersusun runtut dan koheren. |
+| Validity | 4 | Argumen kuat dan didukung literatur, meskipun tidak seluruhnya empiris. |
+| Usefulness | 5 | Konsep aplikatif dan relevan untuk konteks akademik maupun personal. |
+
+**Total Skor UAS-1 (Self): 19 / 20**
+
+---
+
+## A.2 UAS-2 My Opinions
+
+**Rubrik:** Compelling, Informative, Persuasive, Engaging
+
+| Kriteria | Skor | Justifikasi |
+|-----------|------|-------------|
+| Compelling | 4 | Opini menarik dan reflektif, walau pembuka bisa lebih provokatif. |
+| Informative | 4 | Wawasan jelas dan kontekstual. |
+| Persuasive | 4 | Argumen normatif konsisten dan masuk akal. |
+| Engaging | 5 | Bahasa reflektif menjaga keterlibatan pembaca. |
+
+**Total Skor UAS-2 (Self): 17 / 20**
+
+---
+
+## A.3 UAS-3 My Innovations
+
+**Rubrik:** Originality, Feasibility, Clarity, Communication Impact
+
+| Kriteria | Skor | Justifikasi |
+|------------|------|-------------|
+| Originality | 4 | Inovasi berbasis sintesis yang kuat dan kontekstual. |
+| Feasibility | 5 | Sangat realistis dan mudah diterapkan. |
+| Clarity | 5 | Mekanisme dan contoh dijelaskan sistematis. |
+| Communication Impact | 5 | Dampak langsung pada peningkatan kualitas komunikasi. |
+
+**Total Skor UAS-3 (Self): 19 / 20**
+
+---
+
+## A.4 UAS-4 My Knowledge
+
+**Rubrik:** Accuracy, Structure, Relevance, Educational Value
+
+| Kriteria | Skor | Justifikasi |
+|-----------|------|-------------|
+| Accuracy | 4 | Penjelasan konsisten dengan teori komunikasi dasar. |
+| Structure | 5 | Struktur edukatif rapi dan progresif. |
+| Relevance | 5 | Sangat relevan untuk masyarakat dan perkuliahan. |
+| Educational Value | 5 | Memberikan pembelajaran yang jelas dan aplikatif. |
+
+**Total Skor UAS-4 (Self): 19 / 20**
+
+---
+
+### Total Skor Self Assessment
+
+**74 / 80**
+
+---
+
+# B. Peer / Professional Assessment  
+*(Penilaian sebagai audiens akademik)*
+
+---
+
+## Evaluasi Umum Pesan Publik
+
+Dari sudut pandang profesional, website ini:
+
+- membangun identitas intelektual yang konsisten,  
+- menunjukkan kematangan refleksi dan penalaran,  
+- memenuhi standar pesan publik akademik,  
+- layak digunakan sebagai portofolio komunikasi.
+
+---
+
+## Skor Peer Assessment Gabungan
+
+| Aspek | Skor | Justifikasi |
+|------|------|-------------|
+| Kejelasan Pesan | 5 | Pesan mudah dipahami dan terstruktur. |
+| Kedalaman Isi | 4 | Mendalam secara konseptual. |
+| Daya Tarik | 4 | Menarik secara intelektual. |
+| Efektivitas Komunikasi | 5 | Sangat efektif membangun citra penulis. |
+
+**Total Skor Peer Assessment: 18 / 20**
+
+---
+
+# C. Perbandingan Self dan Peer Assessment
+
+| Jenis Penilaian | Skor |
+|----------------|------|
+| Self Assessment | 74 / 80 |
+| Peer Assessment (ekuivalen) | ± 72 / 80 |
+
+Perbedaan kecil menunjukkan bahwa penilaian diri cukup objektif dan realistis.
+
+---
+
+# D. Evaluasi Profesional Akhir
+
+Secara keseluruhan, website **https://awp-confirm.github.io/all-about-me/**:
+
+- memenuhi seluruh rubrik UAS-1 hingga UAS-4,  
+- konsisten dengan metodologi evaluasi resmi perkuliahan,  
+- menunjukkan kapasitas komunikasi akademik yang matang,  
+- layak memperoleh nilai tinggi secara objektif.
+
+---
+
+## Kesimpulan Akhir (3 Kalimat)
+
+1. Website ini berhasil mengintegrasikan konsep, opini, inovasi, dan pengetahuan dalam satu pesan publik yang koheren.  
+2. Evaluasi berbasis seluruh rubrik menunjukkan kualitas komunikasi yang konsisten dan kuat.  
+3. Dengan penyempurnaan minor, artefak ini berada pada level sangat baik hingga excellent secara akademik.
