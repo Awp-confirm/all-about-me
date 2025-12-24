@@ -96,22 +96,7 @@ Metode evaluasi mengikuti prinsip dalam dokumen *Menilai dan Mengevaluasi Esai B
 
 ---
 
-# B. Peer Assessment (Manual)
-
-Peer assessment dilakukan secara manual dengan sudut pandang audiens akademik.
-
-| Aspek | Penilaian |
-|-----|-----------|
-| Kejelasan Pesan | Sangat baik |
-| Kedalaman Isi | Baik |
-| Konsistensi Antar UAS | Sangat baik |
-| Efektivitas Komunikasi | Sangat baik |
-
-**Estimasi Skor Peer Assessment:** ± 90%
-
----
-
-# C. Evaluasi Akhir
+# B. Evaluasi Akhir
 
 Berdasarkan Self Assessment (AI) dan Peer Assessment (manual), website:
 
